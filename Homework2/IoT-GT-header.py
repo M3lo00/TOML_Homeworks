@@ -17,10 +17,10 @@ P     = 32.            # Payload [byte]
 R     = 31.25          # CC2420 Radio Rate [kbyte/s = Byte/ms]
 D     = 8              # number of levels
 C     = 5              # neighbors size (connectivity)
-N     = C*D**2          # number of nodes
+N     = C*D**2         # number of nodes
 #### BE CAREFUL:  Times are in milliseconds (ms)
 Lmax  = 5000.          # Maximal allowed Delay (ms)
-Emax  = 1.            # MAximal Energy Budjet (J)
+Emax  = 1.             # MAximal Energy Budjet (J)
 
 L_pbl = 4.             # preamble length [byte]
 L_hdr = 9. + L_pbl     # header length [byte]
