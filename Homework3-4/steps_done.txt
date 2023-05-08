@@ -1,0 +1,1 @@
+replace the ";" with "," so that pandas can read the csv
