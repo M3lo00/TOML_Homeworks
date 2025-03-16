@@ -1,4 +1,4 @@
-# Homeworks for Topics on Optimization and Machine Learning ([TOML-MIRI] (https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/syllabus/TOML-MIRI)) course
+# Homeworks for Topics on Optimization and Machine Learning ([TOML-MIRI](https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/syllabus/TOML-MIRI)) course
 
 ## About
 **Author**  
